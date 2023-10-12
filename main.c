@@ -2,4 +2,6 @@
 
 main(void){
     printf("Hello World!!! \n");
+    printf("Hello Russia!!! \n");
+    printf("Hello !!! \n"); 
 }
